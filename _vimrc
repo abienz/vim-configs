@@ -6,6 +6,7 @@ filetype plugin indent on
 
 set hidden
 set backspace=indent,eol,start
+set backupcopy=yes
 set laststatus=2
 set ruler
 set number
