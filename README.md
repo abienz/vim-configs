@@ -7,3 +7,4 @@ vimrc file for gvim on windows
 * gruvbox
 * vim-javascript
 * vim-jsx
+* vim-editorconfig
