@@ -1,5 +1,5 @@
-# gvim-windows
-vimrc file for gvim on windows
+# vim-configs
+vimrc file for gvim on windows and other vim config files
 
 ## Requires the following bundles/plugins
 * vim-airline
