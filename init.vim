@@ -12,6 +12,9 @@ Plugin 'mxw/vim-jsx'
 Plugin 'sgur/vim-editorconfig'
 Plugin 'mustache/vim-mustache-handlebars'
 Plugin 'severin-lemaignan/vim-minimap'
+Plugin 'scrooloose/nerdtree'
+Plugin 'digitaltoad/vim-plug'
+Plugin 'wavded/vim-stylus'
 call vundle#end()
 
 syntax enable 
