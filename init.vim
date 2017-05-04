@@ -38,11 +38,13 @@ set backupdir=~/.config/nvim/tmp,.
 set directory=~/.config/nvim/tmp,.
 set undodir=~/.config/nvim/tmp,.
 
+set mouse=a
+
 "set tabstop=2
 set shiftwidth=2
 set softtabstop=2
 "set smarttab
-"set expandtab
+set expandtab
 
 let g:javascript_enable_domhtmlcss=1
 let g:jsx_ext_required=0
