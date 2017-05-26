@@ -49,6 +49,7 @@ set expandtab
 let g:javascript_enable_domhtmlcss=1
 let g:jsx_ext_required=0
 
+set termguicolors
 set guifont=Fantasque_Sans_Mono:h15:cANSI
 colorscheme gruvbox
 let g:airline_powerline_fonts=1
