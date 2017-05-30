@@ -15,6 +15,7 @@ Plugin 'severin-lemaignan/vim-minimap'
 Plugin 'scrooloose/nerdtree'
 Plugin 'digitaltoad/vim-pug'
 Plugin 'wavded/vim-stylus'
+Plupin 'ervandew/supertab'
 call vundle#end()
 
 syntax enable 
