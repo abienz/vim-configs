@@ -34,6 +34,8 @@ set background=dark
 set nowrap
 set cursorline
 set cursorcolumn
+set listchars=tab:>-,trail:-
+set list
 set undofile
 set backupdir=~/.config/nvim/tmp,.
 set directory=~/.config/nvim/tmp,.
